@@ -31,8 +31,11 @@ Data Science Internship at Codveda Technologies
 - The goal is to understand the structure of the data, visualize relationships between flower features and identify patterns that distinguish the 3 species of Iris flowers: *Setosa*, *Versicolor* and *Virginica*.
 
   ## Dataset
+
 **Source**: Built-in sklearn dataset / UCI Machine Learnin Repository
+
 **Rows**:a 150 samples
+
 **Features**:
 - Petal Length
 - Petal Width
