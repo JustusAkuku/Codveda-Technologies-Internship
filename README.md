@@ -10,7 +10,7 @@ Data Science Internship at Codveda Technologies
 - Convert categorical variables into numerical format using one-hot encoding or label encoding
 - Normalize/Standardize numerical data
 - Tools: Python, Pandas, sckit learn
-- Dataset: **iris.csv** in this reppository
+- Dataset: **1)iris.csv** in this reppository
 
 
 # Level 1 Task 3
@@ -26,7 +26,12 @@ Data Science Internship at Codveda Technologies
   
 
   **Report Summarizing Insigts from the Exploratory Data Analysis.**
-  - 
+## Overview 
+- This project performs an Exploratory Data Analysis on the **Iris Dataset**
+- The goal is to understand the structure of the data, visualize relationships between flower features and identify patterns that distinguish the 3 species of Iris flowers: *Setosa*, *Versicolor* and *Virginica*.
+
+  ## Dataset
+
   
   
 
