@@ -66,7 +66,7 @@ Data Science Internship at Codveda Technologies
   - **Libraries**: Pandas, numPY, Matplotlib, Seaborn
  
   ## How to View the Notebook
-  [View the full EDA Notebook](Codveda_Internship_Level1_Task3)
+  [View the full EDA Notebook](Codveda_Internship_Level1_Task3.ipynb)
   
 
   
