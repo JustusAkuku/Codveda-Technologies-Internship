@@ -15,12 +15,15 @@ Data Science Internship at Codveda Technologies
 
 # Level 1 Task 3
 **Description**: Perform exploratory data analysis to understand the underlying structure and trends in the data
+
 **Objectives**;
 - Compute Summary Statistics(mean, median, variance)
 - Visualize the data using histograms, scatter plots and boxplots.
 - Identify correlations between numerical features using a correlation matrix.
 - Generate a report summarizing insghts from the EDA.
 - **Tools**: Python, Pandas, Matplotlib, Seaborn
+
+  
 
   **Report Summarizing Insigts from the Exploratory Data Analysis.**
   
