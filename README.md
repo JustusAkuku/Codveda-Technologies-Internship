@@ -25,12 +25,29 @@ Data Science Internship at Codveda Technologies
 
   
 
-### Report Summarizing Insigts from the Exploratory Data Analysis.###
+### Report Summarizing Insigts from the Exploratory Data Analysis.
 ## Overview 
 - This project performs an Exploratory Data Analysis on the **Iris Dataset**
 - The goal is to understand the structure of the data, visualize relationships between flower features and identify patterns that distinguish the 3 species of Iris flowers: *Setosa*, *Versicolor* and *Virginica*.
 
   ## Dataset
+**Source**: Built-in sklearn dataset / UCI Machine Learnin Repository
+**Rows**:a 150 samples
+**Features**:
+- Petal Length
+- Petal Width
+- Sepal Length
+- Sepal Width
+
+  ## Key Steps
+  1. **Data Loading and Inspection**
+     - Checked shape, datatypes, missing values and performed summary Statistics.
+
+  2. **Univariate Analysis**
+     - Distribution plots for each feature using histograms.
+
+  3. **Bivariate Analysis**
+     - 
 
   
   
