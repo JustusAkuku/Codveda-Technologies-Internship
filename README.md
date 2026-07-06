@@ -10,5 +10,5 @@ Data Science Internship at Codveda Technologies
 - Convert categorical variables into numerical format using one-hot encoding or label encoding
 - Normalize/Standardize numerical data
 - Tools: Python, Pandas, sckit learn
-- Dataset: iris Dataset
+- Dataset: **iris_Dataset** in this reppository
 
