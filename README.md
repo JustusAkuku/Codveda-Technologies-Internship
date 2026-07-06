@@ -67,6 +67,19 @@ Data Science Internship at Codveda Technologies
  
   ## How to View the Notebook
   [View the full EDA Notebook](Codveda_Internship_Level1_Task3.ipynb)
+
+
+
+
+    # Level 2 Task 1: Pedictive Modeling(Regressioin)
+  - Build and Evaluate a regression model to predict a continuous variable(e.g, house prices)
+ 
+  **Objectives**:
+  - Split the Dataset into Training and Testing sets.
+  - Train a linear regression model using scikit-learn.
+  - Evaluate the model using performance metrics like mean squared error(MSE) and R-squared.
+  - Experiment with multiple models(e.g Decision trees,Random Forest) and compare perfornmance.
+  - **Tools**:Python, scikit-learn, pandas, matplotlib.
   
 
   
