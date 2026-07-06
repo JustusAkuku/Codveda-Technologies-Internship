@@ -32,9 +32,9 @@ Data Science Internship at Codveda Technologies
 
   ## Dataset
 
-**Source**: Built-in sklearn dataset / UCI Machine Learnin Repository
+**Source**: Built-in sklearn dataset / UCI Machine Learning Repository
 
-**Rows**:a 150 samples
+**Rows**: 150 samples
 
 **Features**:
 - Petal Length
@@ -50,7 +50,24 @@ Data Science Internship at Codveda Technologies
      - Distribution plots for each feature using histograms.
 
   3. **Bivariate Analysis**
-     - 
+     - Boxplots and scatter plots to compare feature distributions across the 3 species.
+
+  4. **Correlation Analysis**
+     - A correlation heatmap to identify correlation between sepal and petal features (numerical features)
+
+
+  ## Key Insights
+  - Petal length and petal width are the key/strongest predictors of flower species.
+  - *Iris-setosa* is linearly separable from the other two species.
+  - Strong positive correlation between petal length and petal width.
+ 
+  ## Tech Stack
+  - **Language**: Python
+  - **Libraries**: Pandas, numPY, Matplotlib, Seaborn
+ 
+  ## How to View the Notebook
+  [View the full EDA Notebook](Codveda_Internship_Level1_Task3)
+  
 
   
   
