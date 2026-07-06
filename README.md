@@ -14,7 +14,7 @@ Data Science Internship at Codveda Technologies
 
 
 # Level 1 Task 3
-**Description**: Perform exploratory data analysis to understand the underlying structure and trends in the data
+**Description**: Perform exploratory data analysis (EDA) to understand the underlying structure and trends in the data
 
 **Objectives**;
 - Compute Summary Statistics(mean, median, variance)
@@ -26,6 +26,7 @@ Data Science Internship at Codveda Technologies
   
 
   **Report Summarizing Insigts from the Exploratory Data Analysis.**
+  - 
   
   
 
