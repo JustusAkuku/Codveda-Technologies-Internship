@@ -73,7 +73,8 @@ You can download the Iris dataset directly from this repository:
 
 Open the notebook here:
 
-[![Open House_prices_Prediction.ipynb in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1521X8LEevFPiWGeVdXYgPkbnHA3mbibu)
+[![Open Codveda_Internship_Level1_Task3.ipynb](https://img.shields.io/badge/Open-Task3%20Notebook-blue?style=for-the-badge&logo=github)](https://github.com/JustusAkuku/Codveda-Technologies-Internship/blob/main/Codveda_Internship_Level1_Task3.ipynb)
+
 
 
 
