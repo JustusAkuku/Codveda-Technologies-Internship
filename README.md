@@ -96,10 +96,13 @@ You can download the house prediction data set directly from this repository:
 
 
 
+## 🚀 How to Run
+
+Open the notebook here:
+
+[![Open House_prices_Prediction.ipynb in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1521X8LEevFPiWGeVdXYgPkbnHA3mbibu)
 
 
- 
-## How to view the notebook
   
 
   
