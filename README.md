@@ -80,8 +80,7 @@ Open the notebook in Google Colab:
 
 
 
-
-    # Level 2 Task 1: Pedictive Modeling(Regressioin)
+# Level 2 Task 1: Pedictive Modeling(Regressioin)
   - Build and Evaluate a regression model to predict a continuous variable(e.g, house prices)
  
   **Objectives**:
