@@ -34,7 +34,7 @@ Data Science Internship at Codveda Technologies
 
 You can download the Iris dataset directly from this repository using the link below:
 
-[Download Iris Dataset](https://github.com/JustusAkuku/Codveda-Technologies-Internship/raw/main/1)iris.csv)
+[Download Iris Dataset](https://github.com/JustusAkuku/Codveda-Technologies-Internship/raw/main/iris.csv)
 
   
 
