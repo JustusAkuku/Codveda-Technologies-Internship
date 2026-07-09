@@ -69,8 +69,12 @@ You can download the Iris dataset directly from this repository:
   - **Language**: Python
   - **Libraries**: Pandas, numPY, Matplotlib, Seaborn
  
-  ## How to run
-  [View the full EDA Notebook](Codveda_Internship_Level1_Task3.ipynb)
+  ## 🚀 How to Run
+
+Open the notebook here:
+
+[![Open House_prices_Prediction.ipynb in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1521X8LEevFPiWGeVdXYgPkbnHA3mbibu)
+
 
 
 
