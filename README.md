@@ -85,12 +85,12 @@ You can download the Iris dataset directly from this repository:
   - Experiment with multiple models(e.g Decision trees,Random Forest) and compare perfornmance.
   - **Tools**:Python, scikit-learn, pandas, matplotlib.
  
-## 🏠 House Prediction Dataset
-## 🏠 house Prediction Dataset
+  ## 🏠 house Prediction Data Set
 
-You can download the house prediction dataset directly from this repository:
+You can download the house prediction data set directly from this repository:
 
-[![Download house Prediction Dataset](https://img.shields.io/badge/Download-house%20Prediction%20Dataset-green?style=for-the-badge&logo=github)](https://github.com/JustusAkuku/Codveda-Technologies-Internship/raw/main/4%29%20house%20Prediction%20Dataset)
+[![Download house Prediction Data Set](https://img.shields.io/badge/Download-house%20Prediction%20Data%20Set-green?style=for-the-badge&logo=github)](https://github.com/JustusAkuku/Codveda-Technologies-Internship/raw/main/4%29%20house%20Prediction%20Data%20Set)
+
 
 
 
