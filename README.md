@@ -80,6 +80,11 @@ Data Science Internship at Codveda Technologies
   - Evaluate the model using performance metrics like mean squared error(MSE) and R-squared.
   - Experiment with multiple models(e.g Decision trees,Random Forest) and compare perfornmance.
   - **Tools**:Python, scikit-learn, pandas, matplotlib.
+ 
+# Dataset
+
+ 
+## How to view the notebook
   
 
   
