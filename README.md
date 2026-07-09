@@ -17,7 +17,8 @@ You can download the Iris dataset directly from this repository:
 
 [![Download Iris Dataset](https://img.shields.io/badge/Download-Iris%20Dataset-blue?style=for-the-badge&logo=github)](https://github.com/JustusAkuku/Codveda-Technologies-Internship/raw/main/1%29%20iris.csv)
 
-
+## 🚀 How to Run
+![Open Codveda_Internship_Level1_Task2.ipynb in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JustusAkuku/Codveda-Technologies-Internship/blob/main/Codveda_Internship_Level1_Task2.ipynb)
 
 
 
