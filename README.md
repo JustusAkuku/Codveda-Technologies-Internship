@@ -69,11 +69,12 @@ You can download the Iris dataset directly from this repository:
   - **Language**: Python
   - **Libraries**: Pandas, numPY, Matplotlib, Seaborn
  
-  ## 🚀 How to Run
+  
+## 🚀 How to Run
 
-Open the notebook here:
+Open the notebook in Google Colab:
 
-[![Open Codveda_Internship_Level1_Task3.ipynb](https://img.shields.io/badge/Open-Task3%20Notebook-blue?style=for-the-badge&logo=github)](https://github.com/JustusAkuku/Codveda-Technologies-Internship/blob/main/Codveda_Internship_Level1_Task3.ipynb)
+[![Open Codveda_Internship_Level1_Task3.ipynb in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JustusAkuku/Codveda-Technologies-Internship/blob/main/Codveda_Internship_Level1_Task3.ipynb)
 
 
 
