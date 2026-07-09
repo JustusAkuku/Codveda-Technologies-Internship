@@ -36,11 +36,6 @@ You can download the Iris dataset directly from this repository:
 
 [![Download Iris Dataset](https://img.shields.io/badge/Download-Iris%20Dataset-blue?style=for-the-badge&logo=github)](https://github.com/JustusAkuku/Codveda-Technologies-Internship/raw/main/1%29%20iris.csv)
 
-
-
-
-  
-
 **Source**: Built-in sklearn dataset / UCI Machine Learning Repository
 
 **Rows**: 150 samples
@@ -74,7 +69,7 @@ You can download the Iris dataset directly from this repository:
   - **Language**: Python
   - **Libraries**: Pandas, numPY, Matplotlib, Seaborn
  
-  ## How to View the Notebook
+  ## How to run
   [View the full EDA Notebook](Codveda_Internship_Level1_Task3.ipynb)
 
 
@@ -90,7 +85,13 @@ You can download the Iris dataset directly from this repository:
   - Experiment with multiple models(e.g Decision trees,Random Forest) and compare perfornmance.
   - **Tools**:Python, scikit-learn, pandas, matplotlib.
  
-# Dataset
+## 🏠 House Prediction Dataset
+
+You can download the House Prediction dataset directly from this repository:
+
+[![Download House Prediction Dataset](https://img.shields.io/badge/Download-House%20Prediction%20Dataset-green?style=for-the-badge&logo=github)](https://github.com/JustusAkuku/Codveda-Technologies-Internship/raw/main/4%29%20house%20Prediction%20Dataset)
+
+
 
  
 ## How to view the notebook
