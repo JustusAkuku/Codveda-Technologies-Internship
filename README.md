@@ -89,7 +89,9 @@ You can download the Iris dataset directly from this repository:
 
 You can download the house prediction data set directly from this repository:
 
-[download Link](https://raw.githubusercontent.com/JustusAkuku/Codveda-Technologies-Internship/refs/heads/main/4)%20house%20Prediction%20Data%20Set.csv)
+[![Download house Prediction Data Set](https://img.shields.io/badge/Download-house%20Prediction%20Data%20Set-green?style=for-the-badge&logo=github)](https://github.com/JustusAkuku/Codveda-Technologies-Internship/raw/main/4%29%20house%20Prediction%20Data%20Set.csv)
+
+
 
 
 
