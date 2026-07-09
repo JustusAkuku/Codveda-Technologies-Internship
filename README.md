@@ -12,6 +12,14 @@ Data Science Internship at Codveda Technologies
 - Tools: Python, Pandas, sckit learn
 - Dataset: **1)iris.csv** in this reppository
 
+## 📂 Dataset
+You can download the Iris dataset directly from this repository:
+
+[![Download Iris Dataset](https://img.shields.io/badge/Download-Iris%20Dataset-blue?style=for-the-badge&logo=github)](https://github.com/JustusAkuku/Codveda-Technologies-Internship/raw/main/1%29%20iris.csv)
+
+
+
+
 
 # Level 1 Task 3
 **Description**: Perform exploratory data analysis (EDA) to understand the underlying structure and trends in the data
