@@ -30,14 +30,12 @@ Data Science Internship at Codveda Technologies
 - This project performs an Exploratory Data Analysis on the **Iris Dataset**
 - The goal is to understand the structure of the data, visualize relationships between flower features and identify patterns that distinguish the 3 species of Iris flowers: *Setosa*, *Versicolor* and *Virginica*.
 
-
-## 📂 Dataset
-
 ## 📂 Dataset
 
 You can download the Iris dataset directly from this repository:
 
-[![Download Iris Dataset](https://img.shields.io/badge/Download-Iris%20Dataset-blue?style=for-the-badge&logo=github)](https://github.com/JustusAkuku/Codveda-Technologies-Internship/raw/main/iris.csv)
+[![Download Iris Dataset](https://img.shields.io/badge/Download-Iris%20Dataset-blue?style=for-the-badge&logo=github)](https://github.com/JustusAkuku/Codveda-Technologies-Internship/raw/main/1%29%20iris.csv)
+
 
 
 
