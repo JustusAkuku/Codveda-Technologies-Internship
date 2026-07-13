@@ -22,6 +22,7 @@ You can download the Iris dataset directly from this repository:
 
 
 
+
 # Level 1 Task 3
 **Description**: Perform exploratory data analysis (EDA) to understand the underlying structure and trends in the data
 
@@ -105,11 +106,6 @@ You can download the house prediction data set directly from this repository:
 
 [![Download house Prediction Data Set](https://img.shields.io/badge/Download-house%20Prediction%20Data%20Set-green?style=for-the-badge&logo=github)](https://github.com/JustusAkuku/Codveda-Technologies-Internship/raw/main/4%29%20house%20Prediction%20Data%20Set.csv)
 
-
-
-
-
-
 ## 🚀 How to Run
 
 Open the notebook here:
@@ -119,7 +115,25 @@ Open the notebook here:
 
  
   
-# Level 2 Task 2
+# Level 2 Task 2 : Classification with Logistic Regression
+- Build a decision tree classifier to predict a categorical outcome (e.g predict flower species)
+- 
+
+**Objectives**
+-  Preprocess the data (e.g handle categorical features, feature scaling)
+-  Train and evaluate the logistic Regression model
+-  Use metrics such as accuracy, precision and the ROC curve for evaluation.
+-  Compare Logistic Regression with other classifiers like Random Forest and SVM.
+-  **Tools**: Python, scikit-learn, pandas, matplotlib.
+
+## 📂 Dataset
+
+You can download the Iris dataset directly from this repository:
+
+[![Download Iris Dataset](https://img.shields.io/badge/Download-Iris%20Dataset-blue?style=for-the-badge&logo=github)](https://github.com/JustusAkuku/Codveda-Technologies-Internship/raw/main/1%29%20iris.csv)
+
+
+
 
 
   
