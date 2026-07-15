@@ -117,7 +117,7 @@ Open the notebook here:
   
 # Level 2 Task 2 : Classification with Logistic Regression
 - Build a decision tree classifier to predict a categorical outcome (e.g predict flower species)
-- 
+  
 
 **Objectives**
 -  Preprocess the data (e.g handle categorical features, feature scaling)
