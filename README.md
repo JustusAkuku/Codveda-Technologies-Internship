@@ -134,6 +134,15 @@ You can download the Iris dataset directly from this repository:
 
 
 
+## 🚀 How to Run
+
+Open the notebook in Google Colab:
+
+[![Open Predicting_Categorical_Outcomes.ipynb in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JustusAkuku/Codveda-Technologies-Internship/blob/main/Predicting_Categorical_Outcomes.ipynb)
+
+
+
+
 
 
   
