@@ -144,6 +144,17 @@ Open the notebook in Google Colab:
 
 [![Open Predicting_Categorical_Outcomes.ipynb in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JustusAkuku/Codveda-Technologies-Internship/blob/main/Predicting_Categorical_Outcomes.ipynb)
 
+# Level 3 Task 1: Time Series Analysis
+**Description**: Analyze and model time-series data to forecast future events(e.g stock prices, sales)
+
+*Objectives*
+- Plot and decompose the time-series into trend, seasonality and residual components.
+- Implement moving average and exponential smoothing techniques.
+- Build an ARIMA or SARIMA model for forecasting.
+- Evaluate the model using metrics such as RMSE and visualize the forecast.
+- **Tools**: Python, pandas, statsmodels, matplotlib.
+
+
 
 
 
