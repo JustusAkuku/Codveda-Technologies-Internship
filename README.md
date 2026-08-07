@@ -158,7 +158,7 @@ Open the notebook in Google Colab:
 ## 📂 Dataset
 You can download the Sentiment dataset directly from this repository:
 
-[![Download Sentiment Dataset](https://img.shields.io/badge/Download-Sentiment%20Dataset-blue?style=for-the-badge&logo=github)](https://github.com/JustusAkuku/Codveda-Technologies-Internship/raw/main/Sentiment dataset.csv)
+[![Download Sentiment Dataset](https://img.shields.io/badge/Download-Sentiment%20Dataset-blue?style=for-the-badge&logo=github)](https://github.com/JustusAkuku/Codveda-Technologies-Internship/raw/main/Sentimentdataset.csv)
 
 
 
