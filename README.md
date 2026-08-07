@@ -1,3 +1,4 @@
+
 # Codveda Technologies Internship
 Data Science Internship at Codveda Technologies
 
@@ -9,8 +10,8 @@ Data Science Internship at Codveda Technologies
 - Detect & Remove Outliers.
 - Convert categorical variables into numerical format using one-hot encoding or label encoding
 - Normalize/Standardize numerical data
-- Tools: Python, Pandas, sckit learn
-- Dataset: '1)iris.csv' in this reppository
+- Tools: Python, Pandas, scikit learn
+- Dataset: '1)iris.csv' in this repository
 
 ## 📂 Dataset
 You can download the Iris dataset directly from this repository:
@@ -157,9 +158,7 @@ Open the notebook in Google Colab:
 
 ## 📂 Dataset
 You can download the Sentiment dataset directly from this repository:
-
 [![Download Sentiment Dataset](https://img.shields.io/badge/Download-Sentiment%20Dataset-blue?style=for-the-badge&logo=github)](https://github.com/JustusAkuku/Codveda-Technologies-Internship/raw/main/Sentimentdataset.csv)
-
 
 
 
