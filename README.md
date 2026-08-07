@@ -155,6 +155,15 @@ Open the notebook in Google Colab:
 - **Tools**: Python, pandas, statsmodels, matplotlib.
 
 
+## 📂 Dataset
+You can download the Sentiment dataset directly from this repository:
+
+[![Download Sentiment dataset](https://img.shields.io/badge/Download-Iris%20Dataset-blue?style=for-the-badge&logo=github)](https://github.com/JustusAkuku/Codveda-Technologies-Internship/raw/main/1%29%20Sentiment dataset.csv)
+
+
+
+
+
 
 
 
