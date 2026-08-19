@@ -158,9 +158,14 @@ Open the notebook in Google Colab:
 ## 📂 Dataset
 [![Download Sentiment Dataset](https://img.shields.io/badge/Download-Sentiment%20Dataset-blue?style=for-the-badge&logo=github)](https://github.com/JustusAkuku/Codveda-Technologies-Internship/raw/main/3%29%20Sentiment%20dataset.csv)
 
+
+
 ## 🚀 How to Run
 
 Open the notebook in Google Colab:
+
+[![Open Time_Series_Analysis.ipynb in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JustusAkuku/Codveda-Technologies-Internship/blob/main/Time_Series_Analysis.ipynb)
+
 
 
 
