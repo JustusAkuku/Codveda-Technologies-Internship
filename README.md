@@ -144,6 +144,8 @@ Open the notebook in Google Colab:
 
 [![Open Predicting_Categorical_Outcomes.ipynb in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JustusAkuku/Codveda-Technologies-Internship/blob/main/Predicting_Categorical_Outcomes.ipynb)
 
+
+
 # Level 3 Task 1: Time Series Analysis
 **Description**: Analyze and model time-series data to forecast future events
 
@@ -167,7 +169,21 @@ Open the notebook in Google Colab:
 [![Open Time_Series_Analysis.ipynb in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JustusAkuku/Codveda-Technologies-Internship/blob/main/Time_Series_Analysis.ipynb)
 
 
+# Level 3 Task 3: Neural Networks with TensorFlow/Keras
+**Description**: Build and train a simple feed-forward
+neural network to classify images or structured data.
 
+
+**Objectives**;
+- Load a dataset (e.g., MNIST digits or a structured
+dataset) and preprocess it.
+- Design a neural network architecture using TensorFlow
+or Keras.
+- Train the model using backpropagation and evaluate it
+using accuracy and loss curves.
+- Tune hyperparameters (e.g., learning rate, batch size) to
+improve performance.
+- Tools: Python, TensorFlow, Keras, pandas, matplotlib.
 
 
 
