@@ -186,6 +186,13 @@ improve performance.
 - Tools: Python, TensorFlow, Keras, pandas, matplotlib.
 
 
+## 📂 Dataset
+[![Download Churn Dataset](https://img.shields.io/badge/Download-churn--bigml--80.csv-blue?style=for-the-badge&logo=github)](https://github.com/JustusAkuku/Codveda-Technologies-Internship/raw/main/churn-bigml-80.csv)
+
+
+
+
+
 
 
 
