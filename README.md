@@ -193,6 +193,9 @@ improve performance.
 
 ## 🚀 How to Run
 
+Open the notebook in Google Colab:
+
+[![Open Neural_Networks.ipynb in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JustusAkuku/Codveda-Technologies-Internship/blob/main/Neural_Networks.ipynb)
 
 
 
